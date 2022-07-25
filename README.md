@@ -16,7 +16,7 @@ A combined notebook for visualisation can be found in the folder 'notebooks' wit
                                         
 Purpose: Visualisation of COVID Data on a Dynamic dashboard 
 
-Methodology: Development using Dash environment and the updated COVID-19 data froom John hopkins. 
+Methodology: Development in python using the updated COVID-19 data froom John hopkins and in the end the dynamic dashboard development in Dash environment. 
 
-The source code (jupiter notebook) for delivery 3 can be found in the folder 'notebooks' with the title: "EDS_Delivery_3_MatrikelNr_414705". Simply run the whole notebook and you can open the dynamic dashboard in the end
+The source code (jupiter notebook .ipynb file) for delivery 3 can be found in the folder 'notebooks' with the title: "EDS_Delivery_3_MatrikelNr_414705". Simply run the whole notebook and you can open the dynamic dashboard in the end
 
